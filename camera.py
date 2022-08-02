@@ -10,3 +10,4 @@ for (x,y,w,h) in faces:
 cv2.imshow('img',img)
 cv2.waitKey()
 #123
+
